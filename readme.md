@@ -1,4 +1,4 @@
-# AI Resume Shortlisting Project
+# SMART RESUME SHORLISTER
 
 This project uses machine learning to shortlist resumes based on the similarity to a job description. It uses natural language processing (NLP) and a logistic regression model to predict whether a resume is a good fit for the job.
 
